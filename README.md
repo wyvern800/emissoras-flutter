@@ -8,8 +8,9 @@ logomarca. Para facilitar a codificação, deve-se utilizar a criação de Widge
 
 **LINK DA API:** http://controle.mdvsistemas.com.br/Novelas/Emissoras/GetEmissora  
 Mapeamento das imagens:  
-➢ De: ~/Content/Emissora/globo.png
-➢ Para: http://controle.mdvsistemas.com.br/Content/Emissora/globo.png
-**FORMA DE ENTREGA**: Enviar o link do GIT do projeto e o nome completo do aluno.
-**PRAZO DE ENTREGA**: até o dia 22 de maio enviando por e-mail (marcosdiasvendramini@yahoo.com.br).
-**E-MAIL DO PROFESSOR**: marcosdiasvendramini@yahoo.com.br
+➢ De: ~/Content/Emissora/globo.png  
+➢ Para: http://controle.mdvsistemas.com.br/Content/Emissora/globo.png  
+
+**FORMA DE ENTREGA**: Enviar o link do GIT do projeto e o nome completo do aluno.  
+**PRAZO DE ENTREGA**: até o dia 22 de maio enviando por e-mail (marcosdiasvendramini@yahoo.com.br).  
+**E-MAIL DO PROFESSOR**: marcosdiasvendramini@yahoo.com.br  
